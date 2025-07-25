@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jatingujju
+- 👋 Hi, I’m @jatingujarathi
 - 👀 I’m interested in finding bugs
 - 🌱 I’m currently learning B.tech in mechanicle engineering
 - 💞️ I’m looking to collaborate on Github
