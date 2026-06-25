@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatingujarathi
-- 🌱 I’m currently learning B.tech in mechanicle engineering
+- 🌱 I’m currently learning B.tech in mechanical engineering
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me can reach me on github itself or on LinkedIn
 <!---
